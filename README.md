@@ -1,0 +1,1 @@
+# iOS_Android_localized_strings_format_check
