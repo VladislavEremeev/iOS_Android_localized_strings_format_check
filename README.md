@@ -17,4 +17,7 @@ path = C:/Users/VladEremeev/AndroidStudioProjects/.../app/src/main/res/values-cs
 key= authorization.signUp.privacyPolicyAgreement.android
 Expected result: ['<b>', '<font color="#0984E3">', '</font>', '</b>'] ; 
  Actual =  ['<font color="#0984E3">', '</font>'] 
+ 
+Wrong number of resource arguments in string!
+(some example)
 ```
